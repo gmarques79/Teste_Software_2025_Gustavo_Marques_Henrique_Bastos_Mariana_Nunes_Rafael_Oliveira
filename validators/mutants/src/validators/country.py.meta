@@ -1,0 +1,17 @@
+{
+    "exit_code_by_key": {
+        "validators.country.x__get_code_type__mutmut_1": 0,
+        "validators.country.x__get_code_type__mutmut_2": 0,
+        "validators.country.x__get_code_type__mutmut_3": 1,
+        "validators.country.x__get_code_type__mutmut_4": 1,
+        "validators.country.x__get_code_type__mutmut_5": 0,
+        "validators.country.x__get_code_type__mutmut_6": 0,
+        "validators.country.x__get_code_type__mutmut_7": 1,
+        "validators.country.x__get_code_type__mutmut_8": 1,
+        "validators.country.x__get_code_type__mutmut_9": 1,
+        "validators.country.x__get_code_type__mutmut_10": 1,
+        "validators.country.x__get_code_type__mutmut_11": 0,
+        "validators.country.x__get_code_type__mutmut_12": 0
+    },
+    "hash_by_function_name": {}
+}
